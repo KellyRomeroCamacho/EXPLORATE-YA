@@ -1,3 +1,2 @@
 # EXPLORATE-YA
-Explorate
-https://kellyromerocamacho.github.io/EXPLORATE-YA/
+https://kellyromerocamacho.github.io/EXPLORATE-YA/ 
